@@ -316,3 +316,4 @@ coverage
 # typescript assets
 *.tsbuildinfo
 *.js.map
+package-lock.json
