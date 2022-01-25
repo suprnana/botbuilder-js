@@ -40,8 +40,8 @@
     "update-versions": "yarn workspace botbuilder-repo-utils update-versions"
   },
   "resolutions": {
-    "mixme": "0.5.2"
-    "node-fetch": "2.6.7"
+    "mixme": "0.5.2",
+    "node-fetch": "2.6.7",
     "underscore": "1.13.1"
   },
   "devDependencies": {
