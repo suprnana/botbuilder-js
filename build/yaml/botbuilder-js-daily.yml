@@ -36,6 +36,7 @@ steps:
     BuildDropPath: '$(Build.ArtifactStagingDirectory)'
     PackageName: 'Microsoft Bot Framework SDK for Node.js'
     PackageVersion: $(PackageVersion)
+  condition: and(succeeded(), ne(variables['SkipGenerateSbomTask'], 'true')) # Task's sign operation can time out.
 
 - task: PublishBuildArtifacts@1
   displayName: publish staging artifacts
