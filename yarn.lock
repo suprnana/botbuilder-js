@@ -1370,10 +1370,10 @@
     semver "^7.3.4"
     tar "^6.1.0"
 
-"@microsoft.azure/autorest.typescript@^4.7.0":
-  version "4.7.0"
-  resolved "https://registry.yarnpkg.com/@microsoft.azure/autorest.typescript/-/autorest.typescript-4.7.0.tgz#f4adbbca6916385abbb2dd8fee88e07b7d25e609"
-  integrity sha512-UIkOD++QtijZymZ0QOWWQCQOuvhUtFXDK10n5QFyb1QpwqQucoNyD5ClfVAS2HCmyJTBnhWwKdUdf2uS+NClTg==
+"@microsoft.azure/autorest.typescript@^2.3.3":
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/@microsoft.azure/autorest.typescript/-/autorest.typescript-2.6.2.tgz#248002f24ae6b683bf1148685a3fce43fc0d36dd"
+  integrity sha512-8X9Rmk1VB+ElZJoHG6IqPYZ4sQaAR7GIInXgjBeue/ahbVRtInYQAt5qKXsWMQXgIaBT34iZw5FHIMv0CsYRKg==
   dependencies:
     dotnet-2.0.0 "^1.4.4"
 
@@ -1404,10 +1404,10 @@
     source-map "~0.6.1"
     typescript "~4.2.4"
 
-"@microsoft/orchestrator-core@~4.14.3":
-  version "4.14.3"
-  resolved "https://registry.yarnpkg.com/@microsoft/orchestrator-core/-/orchestrator-core-4.14.3.tgz#272faf13e3de05ef2b36499004c5abb36b88f8dd"
-  integrity sha512-36sddLqH8lEG7AkZur+6r73FLHlbj638YWupERyw3uFAClb/1c0o/DdRBNs+NdezLiLXAxn3RB4i0ew3xVF4ZQ==
+"@microsoft/orchestrator-core@4.15.0-dev.20220422.8d959f7h":
+  version "4.15.0-dev.20220422.8d959f7h"
+  resolved "https://registry.yarnpkg.com/@microsoft/orchestrator-core/-/orchestrator-core-4.15.0-dev.20220422.8d959f7h.tgz#e23804bdc21521162dfd5cd08fbcc4c78909c2c3"
+  integrity sha512-OmiqlXuUkHXxoZtUjnBNQP1dMahu5yQI8G5vkWdNWKsKogSqVuxBJToTxINPX6Qc+klQhnWcQQkDjPi9BolSiA==
   dependencies:
     "@mapbox/node-pre-gyp" "^1.0.3"
     bindings "1.2.1"
@@ -2930,10 +2930,10 @@ atob@^2.1.2:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-autorest@^3.6.2:
-  version "3.6.2"
-  resolved "https://registry.yarnpkg.com/autorest/-/autorest-3.6.2.tgz#1792d5f47b03700a32f4203ef91ec54c8558cbfc"
-  integrity sha512-JRMmAsSG4wplYUkjVOWELidF+P/OG9BjF542aQcbt4Qj85bJ+7EzRCTV09vbf8f4ScOB+I68+9IcskjNTU9UkQ==
+autorest@^2.0.4283:
+  version "2.0.4413"
+  resolved "https://registry.yarnpkg.com/autorest/-/autorest-2.0.4413.tgz#2d38bcbea54431dbca0014d8c2374866b6ff7009"
+  integrity sha512-Ttx/O6Yag5q8fpJDvllgf/joLuVPBySkbAqDF7+9jAmscCPQplYjA9H/N12bwkhh+6YR3ugWZHQq3NTN33hkAg==
 
 available-typed-arrays@^1.0.0, available-typed-arrays@^1.0.2:
   version "1.0.2"
