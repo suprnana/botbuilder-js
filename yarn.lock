@@ -2930,11 +2930,6 @@ atob@^2.1.2:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-autorest@^2.0.4283:
-  version "2.0.4413"
-  resolved "https://registry.yarnpkg.com/autorest/-/autorest-2.0.4413.tgz#2d38bcbea54431dbca0014d8c2374866b6ff7009"
-  integrity sha512-Ttx/O6Yag5q8fpJDvllgf/joLuVPBySkbAqDF7+9jAmscCPQplYjA9H/N12bwkhh+6YR3ugWZHQq3NTN33hkAg==
-
 available-typed-arrays@^1.0.0, available-typed-arrays@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/available-typed-arrays/-/available-typed-arrays-1.0.2.tgz#6b098ca9d8039079ee3f77f7b783c4480ba513f5"
