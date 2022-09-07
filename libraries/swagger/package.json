@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Microsoft/botbuilder-js#readme",
   "dependencies": {
-    "@microsoft.azure/autorest.typescript": "^4.7.0",
-    "autorest": "^3.6.2"
+    "@microsoft.azure/autorest.typescript": "^2.3.3",
+    "autorest": "^2.0.4283"
   }
 }
